@@ -7,7 +7,7 @@
     <groupId>com.excelra</groupId>
     <artifactId>glpg-service</artifactId>
     <version>1</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
